@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/footer.css","webpack:///./src/button.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA,C;ACLA;AACA;AACA,C","file":"main.css","sourcesContent":["footer {\n  height: 100px;\n  width: 100%;\n  background: yellowgreen;\n  border: 1px solid red;\n}","button {\n  font-family: fantasy;\n}"],"sourceRoot":""}
